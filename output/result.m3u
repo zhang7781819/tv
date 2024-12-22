@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2024-12-22 06:15:17" tvg-logo="https://live.fanmingming.com/tv/2024-12-22 06:15:17.png" group-title="更新时间",2024-12-22 06:15:17
+#EXTINF:-1 tvg-name="2024-12-23 06:15:43" tvg-logo="https://live.fanmingming.com/tv/2024-12-23 06:15:43.png" group-title="更新时间",2024-12-23 06:15:43
 url
-#EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="🌊港·澳·台",湖北经视
-http://www.furymax.top:85/rtp/239.69.1.41:9886$组播源
 #EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="🌊港·澳·台",湖北经视
 http://58.19.43.46:9901/tsfile/live/1017_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="🌊港·澳·台",湖北经视
@@ -14,4 +12,4 @@ http://120.238.94.10:9901/tsfile/live/1012_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="🌊港·澳·台",广东体育
 http://171.110.42.2:8181/tsfile/live/1026_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="🌊港·澳·台",广东体育
-http://113.111.16.104:8888/udp/239.77.0.112:5146$订阅源
+http://58.252.12.164:8000/udp/239.77.0.112:5146$订阅源
